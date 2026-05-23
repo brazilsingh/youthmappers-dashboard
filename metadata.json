@@ -1,0 +1,8 @@
+{
+  "name": "YouthMappers Validation Dashboard",
+  "description": "Comprehensive, role-based real-time validation and project tracking dashboard for the YouthMappers Validation Team, filtering HOT and TeachOSM Tasking Managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
